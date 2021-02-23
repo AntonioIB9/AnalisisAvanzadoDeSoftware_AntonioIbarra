@@ -1,6 +1,6 @@
 # Materia: Análisis Avanzado de Software :bar_chart:
 
-## Repositorio :file_folder: 
+## -Repositorio :file_folder: 
 
-## Datos generales :books:
+## -Datos generales :books:
 
