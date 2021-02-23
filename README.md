@@ -1,4 +1,2 @@
- # :book:Bienvenidos al repositorio
+# Materia: Análisis Avanzado de Software :bar_chart:
 
-## Repositorio para la materia análisis avanzado de software
-### :memo:Alumno: Ibarra Barajas Antonio Harán - 18210992
