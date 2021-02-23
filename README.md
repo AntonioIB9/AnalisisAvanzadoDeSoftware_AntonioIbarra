@@ -1,3 +1,4 @@
- # :memo:Bienvenidos al repositorio
+ # :book:Bienvenidos al repositorio
 
-## Portafolio de evidencias para la materia análisis avanzado de software
+## Repositorio para la materia análisis avanzado de software
+### :memo:Alumno: Ibarra Barajas Antonio Harán - 18210992
