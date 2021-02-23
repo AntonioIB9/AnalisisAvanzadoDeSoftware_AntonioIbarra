@@ -10,7 +10,7 @@
 
 
 
-## :memo:Actividades
+## :memo:Atach
 ## :memo:Blog
 - [C0.1 Integrar equipos de trabajo](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.1_IntegrarEquiposdeTrabajo_AntonioHar%C3%A1nIbarraBarajas.pdf)
 ## :chart_with_downwards_trend:Diagrams
