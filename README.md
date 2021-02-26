@@ -3,8 +3,6 @@
 ## Instituto Tecnológico De Tijuana
 ## Ingeniería en sistemas computacionales
 
-## -Repositorio :file_folder: 
-
 
 ## -Datos generales :books:
 ### :clipboard:Nombre: Ibarra Barajas Antonio Harán
