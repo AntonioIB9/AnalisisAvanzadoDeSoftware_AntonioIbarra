@@ -7,6 +7,7 @@
 ### :clipboard:Nombre: Ibarra Barajas Antonio Harán
 ### :clipboard:No.Control: 18210992
 ### :clipboard:Docente: Ing. Jaime Leonardo Enriquez Alvarez 
+### :clipboard:Equipo: Perseverance
 
 
 
