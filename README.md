@@ -1,5 +1,8 @@
 # Materia: Análisis Avanzado de Software :bar_chart:
 
+## Instituto Tecnológico De Tijuana
+## Ingeniería en sistemas computacionales
+
 ## -Repositorio :file_folder: 
 
 
