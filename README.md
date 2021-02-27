@@ -15,6 +15,7 @@
 ## :memo:Atach
 ## :memo:Blog
 - [C0.1 Integrar equipos de trabajo](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.1_IntegrarEquiposdeTrabajo_AntonioHar%C3%A1nIbarraBarajas.pdf)
+- [C0.2 Tipos de sistema de información]
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
 ## :page_with_curl:Html
