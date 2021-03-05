@@ -16,8 +16,7 @@
 ## :memo:Blog
 - [C0.1 Integrar equipos de trabajo](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.1_IntegrarEquiposdeTrabajo_AntonioHar%C3%A1nIbarraBarajas.pdf)
 - [C0.2 Tipos de sistema de información](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_AntonioHaranIbarraBarajas.pdf)
-- [C0.3 Diagrama de flujo de proceso]() 
-
+- [C0.3 Diagrama de flujo de proceso](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.3_DiagramadeFlujo_Proceso_AntonioHaranIbarraBarajas.pdf) 
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
 ## :page_with_curl:Html
