@@ -18,7 +18,7 @@
 - [C0.2 Tipos de sistema de información](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.2_Tipo_de_Sistema_Desarrollar_AntonioHaranIbarraBarajas.pdf)
 - [C0.3 Diagrama de flujo de proceso](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C0.3_DiagramadeFlujo_Proceso_AntonioHaranIbarraBarajas.pdf) 
 - [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/A0.1_Interview_Compilation_AntonioHaranIbarraBarajas.pdf)
-- [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio]()
+- [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.1_ObjetivosGenerales_especificos_AntonioHaranIbarraBarajas.pdf)
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
 ## :page_with_curl:Html
