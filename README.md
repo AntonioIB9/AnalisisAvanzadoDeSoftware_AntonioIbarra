@@ -20,7 +20,7 @@
 - [A0.1 Recopilación de datos por medio de la entrevista](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/A0.1_Interview_Compilation_AntonioHaranIbarraBarajas.pdf)
 - [C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.1_ObjetivosGenerales_especificos_AntonioHaranIbarraBarajas.pdf)
 - [C1.2 Elaboracion del acta constitutiva del proyecto](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.2_ActaConstitutiva_delProyecto_AntonioHar%C3%A1nIbarraBarajas.pdf)
-- [C1.2 Requisitos del sistema para el caso de estudio](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.3_Requisitos_del_sistema_AntonioHaranIbarraBarajas.pdf) 
+- [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.3_Requisitos_del_sistema_AntonioHaranIbarraBarajas.pdf) 
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
 ## :page_with_curl:Html
