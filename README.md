@@ -23,6 +23,7 @@
 - [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.3_Requisitos_del_sistema_AntonioHaranIbarraBarajas.pdf) 
 - [A1.0 Consolidacion del acta constitutiva](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/A1.0_Consolidation_of_the_Constitutive_Act_IbarraBarajasAntonioHaran.pdf) 
 - [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.4_UML_Casos_de_uso_secuencia_clases_IbarraBarajasAntonioHaran.pdf)
+- [C1.5  Modelado de requisitos a través de diagramas estructurados]()
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
 ## :page_with_curl:Html
