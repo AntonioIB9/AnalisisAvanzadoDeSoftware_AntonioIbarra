@@ -26,6 +26,7 @@
 - [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C1.5_UML_Estado_componentes_distribucion_IbarraBarajasAntonioHaran.pdf)
 - [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/A1.1_Modelingrequirements_UML_IbarraBarajasAntonioHaran.pdf) 
 - [C2.1 Especificación de Requerimientos Funcionales](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C2.1Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_IbarraBarajasAntonioHar%C3%A1n.pdf)
+- [A2.1 Especificación de requisitos y documentación]()
 
 ## :chart_with_downwards_trend:Diagrams
 ## :page_facing_up:Docs
