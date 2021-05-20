@@ -35,7 +35,7 @@
 
 - [⌛️ C2.1 Especificación de Requerimientos Funcionales](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/C2.1Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_IbarraBarajasAntonioHar%C3%A1n.pdf)
 - [🏆 A2.1 Especificación de requisitos y documentación](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/Docs/A2.1_Specification_of_requirements_and_documentation_Perseverance.docx.pdf)
-- [🏆 A2.2 Diseño de la arquitectura 4+1]()
+- [🏆 A2.2 Diseño de la arquitectura 4+1](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/A2.2_Architecture_Design_41_IbarraBarajasAntonioHaran.pdf)
 
 ## 📊**D**iagrams
 ---
