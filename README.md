@@ -39,7 +39,7 @@
 - [🏆 A2.3 Patrones de arquitectura de software](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/-A2.3_Software_Architecture_patterns_IbarraBarajasAntonioHaran.pdf)
 
 ### **U**nidad IV 🚩
-- [⌛️ A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/Docs/A3.1_Scrum_documentation_start_phase_IbarraBarajasAntonioHaran.pdf)
+- [🏆 A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/AntonioIB9/AnalisisAvanzadoDeSoftware_AntonioIbarra/blob/main/Docs/A3.1_Scrum_documentation_start_phase_IbarraBarajasAntonioHaran.pdf)
 
 ## 📊**D**iagrams
 ---
